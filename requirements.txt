@@ -1,0 +1,7 @@
+deta
+fastapi
+python-multipart
+jinja2
+uvicorn
+aiofiles
+pytest
