@@ -1,3 +1,5 @@
+Run Svelte frontend + FastAPI backend through a single server on Deta Space.
+
 ## Development Server
 
 1. Create a virtual env with `python3 -m venv .venv`
