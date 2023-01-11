@@ -10,6 +10,6 @@ Run Svelte frontend + FastAPI backend through a single server on Deta Space.
 ## Publishing to Space
 
 1. When you are ready to deploy, navigate into the `svelte` directory and run `npm run build`.
-2. From the top level directory, run `space push`
+2. From the top level directory, run `space push` (first run `space new` if you have no Space project) 
 
 
