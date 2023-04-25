@@ -1,7 +1,13 @@
 # Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
 v: 0
 micros:
-    - name: svelte-fast
-      src: .
+    - name: fastapi
+      src: fastapi
       engine: python3.9
+      dev: uvicorn main:app
+      run: uvicorn main:app
+      path: api
+    - name: svelte
+      src: svelte
+      engine: svelte-kit
       primary: true
