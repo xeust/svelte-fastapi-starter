@@ -1,4 +1,4 @@
-Run Svelte frontend + FastAPI backend on Deta Space.
+Run SvelteKit frontend + FastAPI backend on Deta Space.
 
 ## Directory Structure
 
